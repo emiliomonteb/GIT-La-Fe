@@ -853,8 +853,8 @@
     "noIntercambiable": false,
     "notas": "Intercambiar por el principio activo más relevante de la asociación. La suspensión de su administración durante el ingreso hospitalario del paciente no se considera clínicamente relevante."
   },
-  
-]
+  {
+    "grupo": "B",
     "nombreGrupo": "SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
     "subgrupo": "B01",
     "nombreSubgrupo": "ANTITROMBÓTICOS",
